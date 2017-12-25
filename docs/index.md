@@ -1,6 +1,3 @@
-GraphQL-Relay-Starter
-----
-
 - Getting Started
   - [Installation](/docs/start/installation.md)
   - [Configuration](/docs/start/configuration.md)
@@ -24,4 +21,3 @@ GraphQL-Relay-Starter
 - Tutorials
   - [GraphQL Object Type](/docs/tutorials/graphql-object-type.md)
   - [GraphQL Connections](/docs/tutorials/graphql-connections.md)
-
